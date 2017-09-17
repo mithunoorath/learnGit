@@ -1,0 +1,14 @@
+git clone <url> 
+	Used to clone the project repository from the Git to your local machine.
+git add -A
+    Used to add/update all the files in the local project.
+git add <filename>
+	Used to add files by name.
+git commit -m "commit by providing a meaningful message"
+git push
+	This command makes the files from the local folder / repository available in the Github
+git pull
+	The command that updates the local repository with the files in the repository. This needs to executed frequently and also at the start
+	of a day to make sure that we have the correct and updated copy of files in our local project repository.
+git status
+	Informs the users about the differences in the files between your local repository and the project in the gitHub.
