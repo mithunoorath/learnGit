@@ -4,6 +4,10 @@ git add -A
     Used to add/update all the files in the local project.
 git add <filename>
 	Used to add files by name.
+git rm <filename>
+	To delete files from remote repo
+git rm -r <path>
+	To delete recursively
 git commit -m "commit by providing a meaningful message"
 git push
 	This command makes the files from the local folder / repository available in the Github
