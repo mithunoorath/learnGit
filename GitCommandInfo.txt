@@ -1,5 +1,7 @@
 git clone <url> 
 	Used to clone the project repository from the Git to your local machine.
+git checkout -b <branch name>
+	Create branch and switch to that branch
 git add -A
     Used to add/update all the files in the local project.
 git add <filename>
